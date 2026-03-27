@@ -1,4 +1,4 @@
-package com.bibliotecaduoc.model;
+package com.bibliotecaduoc.bibliocaduoc.model;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
